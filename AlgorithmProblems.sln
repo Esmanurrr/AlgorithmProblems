@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleArraySum", "SimpleArr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{D72BDE2D-7299-4D4A-85A5-B058E6CF09E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{0A0B2C06-9D2D-4277-9E06-1CB3527C7ADF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{0A0B2C06-9D2D-4277-9E06-1CB3527C7ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{383E05C3-1724-41A9-847C-7111C79AA71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{383E05C3-1724-41A9-847C-7111C79AA71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{03AAD645-6C12-4C8D-9DB6-C4AB1451C59F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{383E05C3-1724-41A9-847C-7111C79AA71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383E05C3-1724-41A9-847C-7111C79AA71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383E05C3-1724-41A9-847C-7111C79AA71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AAD645-6C12-4C8D-9DB6-C4AB1451C59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AAD645-6C12-4C8D-9DB6-C4AB1451C59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AAD645-6C12-4C8D-9DB6-C4AB1451C59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AAD645-6C12-4C8D-9DB6-C4AB1451C59F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
